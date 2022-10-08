@@ -1,0 +1,7 @@
+D:\Proyectos\WCFHolaMundo\bin\WCFHolaMundo.dll.config
+D:\Proyectos\WCFHolaMundo\bin\WCFHolaMundo.dll
+D:\Proyectos\WCFHolaMundo\bin\WCFHolaMundo.pdb
+D:\Proyectos\WCFHolaMundo\obj\Debug\WCFHolaMundo.csproj.AssemblyReference.cache
+D:\Proyectos\WCFHolaMundo\obj\Debug\WCFHolaMundo.csproj.CoreCompileInputs.cache
+D:\Proyectos\WCFHolaMundo\obj\Debug\WCFHolaMundo.dll
+D:\Proyectos\WCFHolaMundo\obj\Debug\WCFHolaMundo.pdb

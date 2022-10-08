@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="9affecf5-fab6-4d16-b894-94bbd9d89635" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:53753/editar/editarPersona.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="editarPersona.wsdl" MetadataType="Wsdl" ID="54f80b50-3221-478e-82fe-b58da5c38c43" SourceId="1" SourceUrl="http://localhost:53753/editar/editarPersona.svc?wsdl" />
+    <MetadataFile FileName="editarPersona.xsd" MetadataType="Schema" ID="eec41608-7bc5-4960-8de7-dc91e123b89e" SourceId="1" SourceUrl="http://localhost:53753/editar/editarPersona.svc?xsd=xsd1" />
+    <MetadataFile FileName="editarPersona1.xsd" MetadataType="Schema" ID="480f6b62-f9ef-4a98-b59a-52abab6d098e" SourceId="1" SourceUrl="http://localhost:53753/editar/editarPersona.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

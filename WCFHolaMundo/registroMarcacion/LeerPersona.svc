@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WCFHolaMundo.registroMarcacion.LeerPersona" CodeBehind="LeerPersona.svc.cs" %>

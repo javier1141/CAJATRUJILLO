@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="bd7bc82c-0198-41b3-8a53-995796835678" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:53753/registroMarcacion/LeerPersona.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="LeerPersona.xsd" MetadataType="Schema" ID="5fcf9a9e-18ed-44ff-96d8-2dd8cba0340f" SourceId="1" SourceUrl="http://localhost:53753/registroMarcacion/LeerPersona.svc?xsd=xsd0" />
+    <MetadataFile FileName="LeerPersona1.xsd" MetadataType="Schema" ID="8e0e53b7-27cc-4167-8dcb-63ec622bf13e" SourceId="1" SourceUrl="http://localhost:53753/registroMarcacion/LeerPersona.svc?xsd=xsd1" />
+    <MetadataFile FileName="LeerPersona.wsdl" MetadataType="Wsdl" ID="105b4571-8466-405b-a2a8-102c987de53c" SourceId="1" SourceUrl="http://localhost:53753/registroMarcacion/LeerPersona.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

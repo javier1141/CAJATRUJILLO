@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="ce347cbe-0f0d-4691-b9a4-09c1ff6d72bb" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:53753/registro/registrarPersona.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="registrarPersona.wsdl" MetadataType="Wsdl" ID="3d5df8eb-bade-4709-a942-1c119a465774" SourceId="1" SourceUrl="http://localhost:53753/registro/registrarPersona.svc?wsdl" />
+    <MetadataFile FileName="registrarPersona.xsd" MetadataType="Schema" ID="3e73178d-7b1f-4edc-997d-b27bb13eef85" SourceId="1" SourceUrl="http://localhost:53753/registro/registrarPersona.svc?xsd=xsd0" />
+    <MetadataFile FileName="registrarPersona1.xsd" MetadataType="Schema" ID="b23865c6-a867-4124-87d4-c8e0dde72830" SourceId="1" SourceUrl="http://localhost:53753/registro/registrarPersona.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

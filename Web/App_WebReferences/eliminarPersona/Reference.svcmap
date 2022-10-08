@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="4322b57c-a051-4658-9706-6a8de9384077" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:53753/eliminar/eliminarPersona.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="eliminarPersona.xsd" MetadataType="Schema" ID="6bbbeb36-3711-4147-a56a-975ce329f495" SourceId="1" SourceUrl="http://localhost:53753/eliminar/eliminarPersona.svc?xsd=xsd1" />
+    <MetadataFile FileName="eliminarPersona1.xsd" MetadataType="Schema" ID="e383bc67-8127-44e4-b62a-b95ccc8d42b0" SourceId="1" SourceUrl="http://localhost:53753/eliminar/eliminarPersona.svc?xsd=xsd0" />
+    <MetadataFile FileName="eliminarPersona.wsdl" MetadataType="Wsdl" ID="ad8495a1-872b-4f74-899a-f5eaf1220600" SourceId="1" SourceUrl="http://localhost:53753/eliminar/eliminarPersona.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
